@@ -1,0 +1,21 @@
+# Header: Project1::190709-NaCl-PAT-19-7-002 cleaned-Dil cleaned-Dil::All data::New Misorientation Profile Chart   8/29/2019
+# 
+Chart:  Misorientation Profile
+
+Column 1: Distance [microns]
+Column 2: Point-to-point Misorientation [degrees]
+Column 3: Point-to-origin Misorientation [degrees]
+0; 0; 0; 
+10; 0; 0; 
+20; 0.28116; 0.28116; 
+26.4575; 0.837434; 0.586842; 
+36.0555; 0.995833; 0.444114; 
+45.8258; 0.269795; 0.328649; 
+55.6776; 0.311533; 0.540317; 
+65.5744; 0.30901; 0.458849; 
+72.111; 0.585506; 0.75537; 
+81.8535; 0.703878; 0.430693; 
+91.6515; 0.440575; 0.378459; 
+ ;  ;  ; 
+Average;  ;  ; 
+Number; 0.473473; 0.420445; 
